@@ -1,4 +1,31 @@
 AI Tool,Category,Main Features,Free Usage Limit / Monthly Price,Pros,Cons,Best Use Case,Notable Limitations,Official Link
 ChatGPT (OpenAI),Text / Multimodal,"Text, code, reasoning, DALL·E image gen, browsing (Pro)",Free (GPT‑3.5), GPT‑4.1 via Plus $20/mo,"Great reasoning, plugin ecosystem","GPT‑4 only in paid plan","Best for general-purpose AI tasks","No offline mode",https://chat.openai.com
 Claude 3 (Anthropic),Text,"Long-context text, summarization, Q&A",Free tier (limited msgs/day), Pro $20/mo,"Handles huge docs, privacy focus","No native image/video gen","Best for document analysis","Limited creative generation",https://claude.ai
-... [rest of table continues]
+Gemini 1.5 (Google),Multimodal,"Text, code, image understanding",Free (Flash), Advanced $19.99/mo,"Google integration, fast","Limited creative gen","Best for Google ecosystem users","No offline mode",https://gemini.google.com
+Perplexity AI,Research,"Conversational search, citations",Free, Pro $20/mo,"Real-time web answers","Limited creative writing","Best for research and fact-checking","No image/video generation",https://www.perplexity.ai
+Midjourney V6,Image,"Text-to-image",No free tier, from ~$10/mo,"Stunning art quality","Discord-only","Best for artists and designers","No API access",https://www.midjourney.com
+DALL·E 3,Image,"Text-to-image, inpainting",Included in ChatGPT Plus or API,"Integrated with ChatGPT","Less detail control","Best for ChatGPT users","Limited customization",https://openai.com/dall-e-3
+Stable Diffusion XL,Image,"Open-source text-to-image",Free via hosts, API from ~$10/mo,"Customizable, local use","Needs setup","Best for developers and tinkerers","Requires technical setup",https://stability.ai
+Runway Gen-3,Video,"Text-to-video, editing",Free: 125 credits/mo, from $12/mo,"Leading AI video","Limited free credits","Best for video creators","Watermarked output",https://runwayml.com
+Pika,Video,"Text-to-video",Free tier, from ~$10/mo,"Fast, creative","Still beta","Best for experimental video gen","Limited realism",https://pika.art
+Synthesia,Video,"AI avatars, voiceover",No free tier, from $22/mo,"Professional look","Subscription only","Best for corporate training videos","No free access",https://www.synthesia.io
+HeyGen,Video,"Talking avatars",Free trial, from $29/mo,"Realistic lip-sync","Limited cinematic control","Best for marketing videos","Limited editing tools",https://www.heygen.com
+Luma AI,3D / Video,"3D capture, video gen",Free tier, paid plans vary,"Photorealistic 3D","Limited editing","Best for 3D creators","Limited post-processing",https://lumalabs.ai
+Jasper AI,Writing,"Marketing copy, SEO",No free tier, from $39/mo,"Brand voice, integrations","Pricey for small teams","Best for marketing teams","No free trial",https://www.jasper.ai
+Writesonic,Writing,"Blog, ads, SEO",Free tier (10k words), from $19/mo,"Affordable, easy","Needs editing for originality","Best for small businesses","Limited originality",https://writesonic.com
+Copy.ai,Writing,"Marketing, email",Free tier, from $36/mo,"Templates, automation","Less creative depth","Best for email campaigns","Limited creative flexibility",https://www.copy.ai
+Notion AI,Productivity,"Summaries, action items",Free tier, $10/mo add-on,"Integrated in Notion","Limited outside Notion","Best for Notion users","Not standalone",https://www.notion.so/product/ai
+Tome AI,Productivity,"AI presentations",Free tier, from $8/mo,"Fast decks","Limited design control","Best for quick pitch decks","Basic design options",https://tome.app
+Beautiful.ai,Productivity,"Auto-slide generation",Free tier, from $12/mo,"Easy visuals","Limited customization","Best for visual presentations","Limited layout control",https://www.beautiful.ai
+Descript,Audio/Video,"Editing, transcription, voice clone",Free: 1 hr/mo, from $12/mo,"Great for podcasts","Limited cinematic video","Best for podcasters","Limited video editing",https://www.descript.com
+ElevenLabs,Audio,"Voice cloning, TTS",Free tier (10k chars), from $5/mo,"Realistic voices","Limited free quota","Best for voiceover creators","No offline mode",https://elevenlabs.io
+Murf.ai,Audio,"Voiceover, narration",Free trial, from $19/mo,"Many voices/languages","No cloning in free","Best for narration projects","No voice cloning in free",https://murf.ai
+Fireflies.ai,Meetings,"Transcription, analysis",Free tier, from $10/mo,"Meeting insights","Accuracy varies","Best for meeting summaries","Inconsistent accuracy",https://fireflies.ai
+Fathom,Meetings,"Zoom call summaries",Free,"Easy to use","Zoom-only","Best for Zoom users","No support for other platforms",https://fathom.video
+GitHub Copilot X,Coding,"Code completion, chat",No free tier, $10/mo,"Boosts dev speed","Needs GitHub account","Best for developers","Requires GitHub",https://github.com/features/copilot
+DeepSeek Coder,Coding,"Open-source LLM for code",Free,"Transparent, local","Less polished UI","Best for open-source devs","Basic interface",https://deepseekcoder.com
+Hugging Face Spaces,ML Playground,"Host/run AI models",Free tier, paid hosting,"Huge model library","Needs ML knowledge","Best for ML researchers","Requires ML expertise",https://huggingface.co
+Zapier AI,Automation,"Workflow triggers",Free tier, from $20/mo,"Connects many apps","Limited AI depth","Best for automation workflows","Shallow AI features",https://zapier.com/ai
+Rewind,Personal Memory,"Desktop search, recall",No free tier, $20/mo,"Powerful recall","Privacy concerns","Best for personal productivity","No free access",https://rewind.ai
+Quillbot,Writing,"Paraphrasing, grammar",Free tier, from $8.33/mo,"Easy to use","Limited creativity","Best for students and writers","Basic creativity",https://quillbot.com
+Wordtune,Writing,"Tone/style editing",Free tier, from $9.99/mo,"Improves clarity","Limited free quota","Best for editing tone/style","Limited free usage",https://www.wordtune.com
