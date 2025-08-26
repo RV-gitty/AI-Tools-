@@ -1,0 +1,4 @@
+AI Tool,Category,Main Features,Free Usage Limit / Monthly Price,Pros,Cons,Best Use Case,Notable Limitations,Official Link
+ChatGPT (OpenAI),Text / Multimodal,"Text, code, reasoning, DALL·E image gen, browsing (Pro)",Free (GPT‑3.5), GPT‑4.1 via Plus $20/mo,"Great reasoning, plugin ecosystem","GPT‑4 only in paid plan","Best for general-purpose AI tasks","No offline mode",https://chat.openai.com
+Claude 3 (Anthropic),Text,"Long-context text, summarization, Q&A",Free tier (limited msgs/day), Pro $20/mo,"Handles huge docs, privacy focus","No native image/video gen","Best for document analysis","Limited creative generation",https://claude.ai
+... [rest of table continues]
